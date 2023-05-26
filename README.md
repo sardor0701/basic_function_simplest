@@ -10,6 +10,14 @@
 ## Create a function named printMultiplicationTable that prints the multiplication table for numbers 1 to 10.
 # Task 5:
 ## Write a function named printPattern that prints the following pattern:
+
+```bash
+*
+**
+***
+****
+*****
+```
 # Task 6:
 ## Create a function named printFibonacci that prints the first 10 numbers in the Fibonacci sequence.
 # Task 7:
